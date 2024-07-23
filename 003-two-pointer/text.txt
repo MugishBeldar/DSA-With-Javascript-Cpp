@@ -1,2 +1,8 @@
 167. Two Sum II - Input Array Is Sorted ---> leetcode
 15. 3Sum --> leetcode
+581. Shortest Unsorted Continuous Subarray ---> leetcode
+151. Reverse Words in a String ---> leetcode
+
+fast moving pointer and slow moving pointer (Tortois and Hare algorithm)
+141. Linked List Cycle---> leetcode
+202. happy number---> leetcode
