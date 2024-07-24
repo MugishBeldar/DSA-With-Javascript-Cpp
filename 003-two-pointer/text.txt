@@ -2,6 +2,10 @@
 15. 3Sum --> leetcode
 581. Shortest Unsorted Continuous Subarray ---> leetcode
 151. Reverse Words in a String ---> leetcode
+Roated Array---> leetcode
+1498. Number of Subsequences That Satisfy the Given Sum Condition ---> leetcode 
+75. sort color ---> leetcode
+88. merged sorted array ---> leetcode
 
 fast moving pointer and slow moving pointer (Tortois and Hare algorithm)
 141. Linked List Cycle---> leetcode
