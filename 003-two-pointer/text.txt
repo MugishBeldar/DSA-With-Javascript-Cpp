@@ -6,7 +6,13 @@ Roated Array---> leetcode
 1498. Number of Subsequences That Satisfy the Given Sum Condition ---> leetcode 
 75. sort color ---> leetcode
 88. merged sorted array ---> leetcode
+80 remove duplicated from sorted array II 
 
 fast moving pointer and slow moving pointer (Tortois and Hare algorithm)
 141. Linked List Cycle---> leetcode
 202. happy number---> leetcode
+
+
+remaining
+containt with most water
+boats to save people
