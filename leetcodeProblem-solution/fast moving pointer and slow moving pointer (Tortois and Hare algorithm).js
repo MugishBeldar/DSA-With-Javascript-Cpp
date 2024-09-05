@@ -1,1 +1,0 @@
-// it is a theory look in ../two-pointers-method/1.6.png
