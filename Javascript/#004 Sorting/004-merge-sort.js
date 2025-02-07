@@ -17,19 +17,19 @@ function merge(left, right) {
   let rightIndex = 0;
  
   while (leftIndex < left.length && rightIndex < right.length) {
-    if (left[leftIndex] > right[rightIndex]) {
+    if (left[leftIndex] <= right[rightIndex]) {
+      sortedArray.push(left[leftIndex]);
+      leftIndex++;
+    } else {
       sortedArray.push(right[rightIndex]);
       rightIndex++;
     }
-    if (left[leftIndex] < right[rightIndex]) {
-      sortedArray.push(left[leftIndex]);
-      leftIndex++;
-    }
   }
-  // If there are remaining elements in either array, add them to sortedArray
+
   sortedArray.push(...left.slice(leftIndex));
   sortedArray.push(...right.slice(rightIndex));
   return sortedArray;
 }
+
 // Test the implementation
 console.log(mergeSort([8, 4, 3, 7, 6, 1, 2, 5]));
