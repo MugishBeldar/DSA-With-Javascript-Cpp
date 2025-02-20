@@ -23,7 +23,7 @@ function printDl(dll) {
     current = current.next;
   }
 
-  console.log(result);
+  console.log("dll : ", result);
 }
 
 function convertArrToDLL(arr) {
