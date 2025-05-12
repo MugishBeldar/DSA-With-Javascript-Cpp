@@ -1,4 +1,4 @@
-// tc = o(logn)
+// tc = o(nlogn)
 // sc = o(1)
 function binarySearch(arr, target) {
   let low = 0;

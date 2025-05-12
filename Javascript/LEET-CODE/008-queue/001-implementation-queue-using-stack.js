@@ -1,6 +1,6 @@
 // 232. Implement Queue using Stacks
 
-// YOU CAN ALSO DO THIS PROBLEM USING TWO STACK MEAND TWO ARRAY
+// YOU CAN ALSO DO THIS PROBLEM USING TWO STACK AND TWO ARRAY
 
 class QueueUsingOneStack {
   constructor() {
